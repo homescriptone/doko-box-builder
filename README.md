@@ -1,4 +1,4 @@
-# DokoBuilder : The Ultimate dynamic bundle builder for WooCommerce  
+# Doko Bundle Builder : The Ultimate dynamic bundle builder for WooCommerce  
 Contributors: homescript, freemius  
 Donate link: https://www.buymeacoffee.com/homescriptone  
 Tags: woocommerce bundles, bundle pricing, fast checkout, cart, woocommerce sales  
